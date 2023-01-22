@@ -91,7 +91,7 @@ export const socials = [
         name: 'github',
         url: '/github.svg',
         urlWhite: '/github-white.svg',
-        href: 'https://github.com/pgrandne/irruptionlab',
+        href: 'https://github.com/irruptionlab/website',
     },
     {
         name: 'youtube',
